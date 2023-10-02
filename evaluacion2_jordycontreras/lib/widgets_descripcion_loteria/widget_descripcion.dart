@@ -1,0 +1,8 @@
+export 'package:evaluacion2_jordycontreras/widgets_descripcion_loteria/contenedor_uno_descripcion.dart';
+export 'package:evaluacion2_jordycontreras/widgets_descripcion_loteria/contenedor_cuatro_descripcion.dart';
+export 'package:evaluacion2_jordycontreras/widgets_descripcion_loteria/contenedor_tres_descripcion.dart';
+export 'package:evaluacion2_jordycontreras/widgets_descripcion_loteria/contenedor_cinco_descripcion.dart';
+export 'package:evaluacion2_jordycontreras/widgets_descripcion_loteria/contenedor_seis_descripcion.dart';
+export 'package:evaluacion2_jordycontreras/imagenes/Imagen_1_loteria_.dart';
+export 'package:evaluacion2_jordycontreras/imagenes/Imagen_2_1er_final_.dart';
+export 'package:evaluacion2_jordycontreras/imagenes/Imagen_3_2do_final_.dart';
